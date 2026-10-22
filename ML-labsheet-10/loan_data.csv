@@ -1,0 +1,501 @@
+Income,Education,Self_Employed,Married,LoanAmount,Credit_History,Dependents,Loan_Status
+27048,Graduate,No,No,442,0,0,Rejected
+119484,Not Graduate,No,Yes,49,0,3,Approved
+103367,Not Graduate,No,Yes,211,0,1,Approved
+74249,Not Graduate,No,Yes,240,1,1,Approved
+73457,Graduate,Yes,No,403,0,0,Approved
+130911,Graduate,No,Yes,82,1,4,Approved
+26602,Not Graduate,No,No,228,1,4,Approved
+109145,Graduate,No,Yes,93,1,4,Approved
+42198,Graduate,No,No,398,1,0,Approved
+27714,Graduate,No,No,324,1,1,Approved
+86075,Not Graduate,Yes,Yes,258,0,4,Rejected
+146709,Not Graduate,No,Yes,208,1,2,Approved
+114327,Not Graduate,Yes,No,93,1,0,Approved
+117754,Not Graduate,Yes,Yes,463,1,0,Approved
+111860,Not Graduate,No,Yes,331,1,1,Approved
+121119,Graduate,No,No,173,1,4,Approved
+84286,Not Graduate,Yes,Yes,219,0,0,Approved
+32295,Graduate,Yes,Yes,369,1,4,Approved
+128366,Graduate,Yes,Yes,366,1,3,Approved
+75802,Not Graduate,Yes,Yes,241,1,4,Approved
+82548,Graduate,Yes,No,165,1,4,Approved
+65058,Graduate,Yes,No,337,1,1,Approved
+39644,Graduate,No,Yes,336,1,4,Approved
+140114,Not Graduate,No,Yes,308,1,0,Approved
+120512,Graduate,No,No,55,0,1,Approved
+101922,Graduate,Yes,Yes,247,1,1,Approved
+69326,Not Graduate,Yes,Yes,315,0,0,Rejected
+126073,Graduate,Yes,Yes,476,0,0,Approved
+88633,Not Graduate,No,Yes,272,1,0,Approved
+74861,Not Graduate,Yes,No,184,1,0,Approved
+75812,Not Graduate,Yes,Yes,287,1,1,Approved
+45677,Graduate,Yes,Yes,105,1,0,Approved
+27438,Graduate,No,No,63,1,0,Approved
+89869,Graduate,Yes,Yes,346,1,4,Approved
+134866,Not Graduate,Yes,No,494,1,0,Approved
+23615,Graduate,No,Yes,426,1,0,Approved
+130870,Graduate,No,Yes,300,1,0,Approved
+126731,Graduate,Yes,Yes,39,1,0,Approved
+52362,Not Graduate,Yes,No,495,1,2,Approved
+100275,Graduate,No,No,236,1,4,Approved
+37306,Not Graduate,No,Yes,159,1,3,Approved
+117342,Graduate,No,Yes,449,1,2,Approved
+109571,Graduate,Yes,Yes,379,1,0,Approved
+62861,Graduate,Yes,No,380,1,3,Approved
+24169,Not Graduate,No,Yes,153,1,0,Approved
+146045,Graduate,Yes,No,497,1,3,Approved
+75168,Graduate,Yes,No,237,0,2,Approved
+135572,Not Graduate,No,No,275,0,4,Rejected
+106519,Not Graduate,No,Yes,381,1,1,Approved
+120082,Not Graduate,Yes,Yes,337,1,3,Approved
+117587,Not Graduate,No,Yes,102,0,2,Approved
+41276,Graduate,Yes,No,165,1,2,Approved
+64127,Not Graduate,No,No,193,1,4,Approved
+78007,Graduate,No,No,475,1,3,Approved
+82202,Not Graduate,Yes,Yes,363,1,2,Approved
+20913,Not Graduate,No,Yes,196,1,2,Approved
+88787,Not Graduate,Yes,No,373,1,3,Approved
+35829,Not Graduate,No,No,375,1,1,Rejected
+115356,Not Graduate,Yes,No,209,0,0,Approved
+107212,Not Graduate,Yes,No,213,1,2,Approved
+139542,Not Graduate,No,Yes,450,1,0,Approved
+115543,Graduate,No,Yes,290,1,0,Approved
+64497,Graduate,Yes,Yes,91,1,2,Approved
+145614,Graduate,No,No,366,0,3,Approved
+70465,Not Graduate,No,No,303,0,3,Rejected
+58986,Graduate,Yes,Yes,264,1,1,Approved
+137248,Graduate,No,No,368,1,2,Approved
+65012,Graduate,No,No,456,0,0,Approved
+25306,Not Graduate,Yes,No,178,1,3,Approved
+78390,Not Graduate,Yes,No,221,1,1,Approved
+122417,Not Graduate,No,Yes,111,1,3,Approved
+40578,Graduate,Yes,Yes,331,1,4,Approved
+77497,Graduate,No,No,213,0,3,Approved
+32539,Graduate,No,No,184,1,1,Approved
+107675,Graduate,Yes,Yes,355,1,4,Approved
+79220,Graduate,Yes,Yes,216,1,3,Approved
+59576,Not Graduate,No,No,243,1,3,Approved
+45632,Not Graduate,Yes,No,231,1,4,Approved
+91208,Not Graduate,Yes,Yes,144,1,4,Approved
+105425,Graduate,No,No,80,0,0,Approved
+141942,Graduate,No,Yes,417,1,4,Approved
+74015,Not Graduate,No,Yes,64,1,3,Approved
+36693,Graduate,No,No,176,1,1,Approved
+127412,Graduate,No,Yes,341,1,1,Approved
+100018,Graduate,Yes,No,83,1,3,Approved
+109536,Not Graduate,No,Yes,335,1,1,Approved
+28125,Not Graduate,No,No,372,0,2,Rejected
+57169,Graduate,No,Yes,338,1,3,Approved
+118659,Not Graduate,No,No,166,1,3,Approved
+127355,Not Graduate,Yes,Yes,29,1,4,Approved
+73754,Not Graduate,No,No,446,0,0,Rejected
+123643,Not Graduate,Yes,Yes,177,1,1,Approved
+128629,Graduate,No,Yes,407,1,4,Approved
+67309,Not Graduate,Yes,Yes,115,1,2,Approved
+136242,Graduate,Yes,No,98,1,1,Approved
+53924,Not Graduate,Yes,Yes,394,1,1,Approved
+47340,Not Graduate,No,No,472,1,1,Rejected
+107137,Not Graduate,No,No,433,1,2,Approved
+100963,Not Graduate,Yes,No,381,1,1,Approved
+33866,Not Graduate,Yes,No,138,0,3,Rejected
+127420,Not Graduate,Yes,Yes,459,1,2,Approved
+41987,Not Graduate,Yes,No,341,1,3,Rejected
+123662,Not Graduate,No,No,102,1,0,Approved
+15993,Graduate,Yes,Yes,82,1,3,Approved
+122574,Not Graduate,Yes,Yes,439,1,4,Approved
+121235,Not Graduate,Yes,No,152,0,0,Approved
+120349,Graduate,Yes,Yes,388,1,1,Approved
+104755,Not Graduate,No,No,86,1,3,Approved
+78662,Not Graduate,No,Yes,154,1,3,Approved
+110198,Not Graduate,Yes,Yes,156,0,3,Approved
+52411,Not Graduate,No,No,155,1,2,Approved
+120399,Graduate,Yes,Yes,344,1,3,Approved
+90012,Not Graduate,Yes,No,459,1,3,Approved
+76954,Graduate,Yes,No,457,0,0,Approved
+83257,Not Graduate,Yes,Yes,376,1,3,Approved
+91780,Not Graduate,Yes,Yes,117,1,2,Approved
+20030,Graduate,No,No,482,0,0,Rejected
+33872,Graduate,No,No,280,0,2,Rejected
+48140,Graduate,No,Yes,282,0,2,Rejected
+30461,Graduate,Yes,No,357,1,0,Approved
+74348,Graduate,Yes,Yes,389,0,4,Approved
+105235,Graduate,Yes,Yes,478,1,1,Approved
+103348,Graduate,Yes,No,300,1,1,Approved
+78598,Graduate,Yes,Yes,313,1,2,Approved
+130436,Not Graduate,No,No,378,1,4,Approved
+91307,Graduate,No,No,142,0,3,Approved
+25691,Graduate,No,No,168,1,3,Approved
+118275,Graduate,No,No,320,1,1,Approved
+92571,Not Graduate,No,Yes,50,1,4,Approved
+100687,Graduate,No,Yes,174,1,4,Approved
+91325,Not Graduate,Yes,No,365,1,2,Approved
+89733,Graduate,No,No,489,0,2,Approved
+27226,Graduate,No,Yes,269,1,0,Approved
+90493,Graduate,No,No,212,1,3,Approved
+122313,Graduate,No,Yes,231,1,4,Approved
+56033,Not Graduate,Yes,No,349,0,2,Rejected
+96383,Graduate,No,Yes,281,1,2,Approved
+19160,Graduate,Yes,No,31,1,2,Approved
+61912,Not Graduate,No,Yes,279,1,0,Approved
+73957,Not Graduate,No,Yes,212,0,3,Approved
+147670,Not Graduate,No,No,357,1,3,Approved
+43969,Not Graduate,Yes,Yes,440,1,4,Rejected
+52334,Not Graduate,No,Yes,482,0,4,Rejected
+70151,Graduate,No,No,313,0,2,Approved
+149010,Not Graduate,Yes,Yes,194,1,4,Approved
+130210,Graduate,Yes,Yes,233,0,2,Approved
+19683,Graduate,No,Yes,104,1,3,Approved
+46582,Not Graduate,No,No,470,1,3,Rejected
+125926,Not Graduate,No,No,427,1,4,Approved
+22870,Not Graduate,No,No,430,1,3,Rejected
+130516,Graduate,Yes,Yes,177,1,0,Approved
+52987,Not Graduate,No,Yes,174,0,0,Approved
+138883,Graduate,Yes,Yes,432,1,2,Approved
+54635,Not Graduate,No,No,281,1,2,Approved
+73633,Not Graduate,Yes,Yes,358,0,3,Rejected
+104359,Not Graduate,No,Yes,255,1,2,Approved
+32048,Not Graduate,Yes,No,232,1,2,Approved
+90199,Not Graduate,No,No,324,0,4,Rejected
+83177,Graduate,Yes,No,411,1,1,Approved
+120827,Graduate,Yes,Yes,180,1,2,Approved
+149475,Graduate,No,No,409,1,2,Approved
+104682,Not Graduate,Yes,No,137,1,2,Approved
+70240,Graduate,No,Yes,213,1,4,Approved
+69862,Graduate,No,No,458,1,4,Approved
+71424,Not Graduate,No,No,479,0,2,Rejected
+124893,Not Graduate,Yes,Yes,464,1,2,Approved
+58364,Not Graduate,Yes,No,172,1,2,Approved
+37541,Not Graduate,Yes,No,425,1,0,Rejected
+60129,Not Graduate,No,No,470,1,2,Approved
+18066,Graduate,No,No,490,1,1,Approved
+29329,Not Graduate,No,No,30,1,0,Approved
+27156,Not Graduate,No,No,378,1,0,Rejected
+119160,Not Graduate,Yes,Yes,499,1,2,Approved
+112519,Graduate,Yes,No,387,1,0,Approved
+109064,Not Graduate,Yes,No,132,1,3,Approved
+77353,Not Graduate,Yes,No,386,1,2,Approved
+111803,Not Graduate,Yes,Yes,70,0,1,Approved
+36771,Graduate,Yes,Yes,251,0,3,Rejected
+136584,Not Graduate,Yes,No,321,1,2,Approved
+82641,Not Graduate,Yes,No,239,1,3,Approved
+141637,Not Graduate,No,No,356,1,3,Approved
+35562,Graduate,No,Yes,135,1,0,Approved
+82140,Not Graduate,No,Yes,311,0,1,Rejected
+109003,Not Graduate,Yes,No,330,0,2,Rejected
+81909,Graduate,Yes,Yes,324,0,4,Approved
+75231,Not Graduate,Yes,No,159,1,0,Approved
+37439,Graduate,Yes,Yes,166,0,0,Approved
+66438,Not Graduate,No,Yes,144,1,4,Approved
+47233,Graduate,No,No,242,1,4,Approved
+55704,Not Graduate,Yes,Yes,301,1,0,Approved
+107300,Not Graduate,Yes,No,194,0,2,Approved
+100088,Not Graduate,Yes,No,217,0,3,Approved
+96972,Not Graduate,Yes,No,157,0,0,Approved
+63845,Not Graduate,No,Yes,125,0,1,Approved
+144559,Graduate,No,Yes,336,0,1,Approved
+26832,Graduate,No,No,412,1,3,Approved
+61250,Not Graduate,No,Yes,159,1,1,Approved
+30930,Not Graduate,No,Yes,433,1,2,Rejected
+60757,Graduate,No,Yes,294,1,1,Approved
+144857,Graduate,No,No,100,0,3,Approved
+64445,Not Graduate,No,Yes,196,1,0,Approved
+137659,Not Graduate,Yes,Yes,23,1,1,Approved
+81834,Graduate,No,No,38,1,1,Approved
+109461,Graduate,No,Yes,181,1,4,Approved
+76751,Graduate,No,No,238,1,4,Approved
+50892,Not Graduate,No,No,403,0,2,Rejected
+118171,Graduate,No,No,84,0,0,Approved
+145839,Not Graduate,No,No,423,1,3,Approved
+50576,Graduate,Yes,Yes,132,1,2,Approved
+120132,Graduate,No,Yes,86,1,4,Approved
+50254,Not Graduate,No,Yes,356,1,1,Approved
+111780,Not Graduate,No,Yes,392,1,4,Approved
+121516,Not Graduate,Yes,No,310,0,4,Rejected
+75664,Not Graduate,No,No,75,1,1,Approved
+114484,Not Graduate,Yes,No,75,1,3,Approved
+51752,Not Graduate,Yes,No,207,1,1,Approved
+25699,Not Graduate,No,No,236,1,1,Approved
+28012,Graduate,No,Yes,500,0,1,Rejected
+75348,Graduate,No,Yes,157,1,3,Approved
+136852,Not Graduate,Yes,No,112,0,1,Approved
+32223,Graduate,No,Yes,474,1,3,Approved
+76530,Not Graduate,No,No,94,0,2,Approved
+110045,Not Graduate,No,No,32,0,3,Approved
+42319,Graduate,No,No,223,1,4,Approved
+112418,Not Graduate,Yes,No,212,1,0,Approved
+56304,Graduate,No,No,318,1,4,Approved
+124170,Not Graduate,Yes,No,442,1,0,Approved
+93195,Graduate,No,No,468,1,2,Approved
+88833,Graduate,Yes,Yes,159,1,1,Approved
+38864,Not Graduate,Yes,Yes,491,1,3,Rejected
+77533,Not Graduate,No,No,324,1,3,Approved
+130643,Graduate,No,No,53,0,4,Approved
+17635,Not Graduate,No,No,471,1,2,Rejected
+117400,Not Graduate,No,No,86,0,4,Approved
+81523,Graduate,No,No,303,1,1,Approved
+112128,Not Graduate,Yes,No,400,0,1,Rejected
+104545,Not Graduate,Yes,No,139,1,1,Approved
+73332,Graduate,Yes,Yes,150,1,2,Approved
+56670,Not Graduate,Yes,Yes,249,1,3,Approved
+99687,Not Graduate,Yes,Yes,445,1,4,Approved
+33930,Not Graduate,No,Yes,127,0,1,Rejected
+93853,Not Graduate,No,No,339,1,1,Approved
+27783,Not Graduate,No,Yes,237,1,4,Approved
+102729,Graduate,Yes,Yes,73,1,2,Approved
+99881,Not Graduate,No,Yes,361,1,1,Approved
+26400,Graduate,No,No,420,1,4,Approved
+117261,Not Graduate,No,No,296,1,2,Approved
+71134,Graduate,Yes,Yes,104,1,4,Approved
+121230,Graduate,Yes,No,94,1,4,Approved
+20617,Graduate,No,No,223,1,4,Approved
+39226,Not Graduate,Yes,No,263,1,2,Rejected
+81689,Graduate,Yes,No,285,1,3,Approved
+40410,Graduate,Yes,No,137,1,4,Approved
+59531,Not Graduate,No,Yes,260,1,1,Approved
+104181,Not Graduate,No,No,161,1,0,Approved
+34510,Graduate,Yes,Yes,350,1,1,Approved
+106490,Not Graduate,Yes,Yes,403,1,3,Approved
+28959,Graduate,No,No,333,1,2,Approved
+38650,Graduate,No,No,20,0,0,Approved
+94332,Not Graduate,No,No,497,1,2,Approved
+122121,Graduate,Yes,Yes,31,0,0,Approved
+38030,Not Graduate,No,Yes,500,0,2,Rejected
+55499,Not Graduate,Yes,Yes,35,1,2,Approved
+139892,Not Graduate,No,No,268,1,3,Approved
+148608,Graduate,Yes,No,70,1,2,Approved
+93443,Not Graduate,Yes,No,65,1,2,Approved
+75350,Not Graduate,Yes,No,348,0,3,Rejected
+61827,Graduate,Yes,Yes,370,1,3,Approved
+97681,Graduate,No,Yes,76,0,4,Approved
+94774,Graduate,Yes,Yes,489,0,1,Approved
+54791,Not Graduate,Yes,Yes,174,1,2,Approved
+18078,Not Graduate,Yes,Yes,173,1,1,Approved
+35452,Graduate,No,Yes,162,1,2,Approved
+144406,Not Graduate,No,Yes,241,1,0,Approved
+71451,Not Graduate,No,No,105,1,2,Approved
+80111,Not Graduate,No,Yes,224,0,0,Approved
+78059,Graduate,No,Yes,121,1,2,Approved
+120670,Graduate,No,Yes,44,1,4,Approved
+23769,Graduate,Yes,Yes,197,0,4,Approved
+26168,Not Graduate,No,No,343,1,2,Rejected
+52239,Not Graduate,No,Yes,387,1,0,Approved
+80699,Not Graduate,No,Yes,189,0,1,Approved
+105602,Graduate,Yes,Yes,175,1,0,Approved
+81245,Graduate,No,No,398,1,3,Approved
+74558,Graduate,Yes,No,347,0,4,Approved
+141607,Not Graduate,Yes,Yes,420,1,2,Approved
+36737,Graduate,No,Yes,455,1,0,Approved
+92183,Not Graduate,Yes,Yes,415,1,0,Approved
+88203,Not Graduate,Yes,Yes,470,1,4,Approved
+78921,Graduate,No,No,220,1,1,Approved
+124026,Graduate,Yes,No,209,1,0,Approved
+51041,Graduate,No,No,174,0,0,Approved
+143760,Not Graduate,Yes,Yes,133,1,1,Approved
+59762,Not Graduate,Yes,Yes,380,0,3,Rejected
+88576,Graduate,No,Yes,363,1,4,Approved
+85291,Graduate,No,Yes,405,1,1,Approved
+129720,Not Graduate,Yes,No,100,0,3,Approved
+74253,Graduate,No,Yes,256,1,0,Approved
+53415,Graduate,No,Yes,126,1,0,Approved
+17917,Graduate,Yes,No,449,1,0,Approved
+64096,Graduate,No,Yes,148,0,4,Approved
+126550,Graduate,Yes,Yes,89,1,2,Approved
+16338,Not Graduate,No,Yes,294,1,4,Rejected
+135982,Not Graduate,No,Yes,442,1,0,Approved
+88282,Not Graduate,No,Yes,460,0,0,Rejected
+33933,Not Graduate,No,Yes,66,1,4,Approved
+55794,Not Graduate,Yes,Yes,176,1,0,Approved
+89795,Graduate,Yes,Yes,93,1,0,Approved
+57618,Graduate,Yes,Yes,168,1,2,Approved
+29657,Not Graduate,No,No,276,1,3,Rejected
+104909,Graduate,No,Yes,154,1,1,Approved
+105753,Not Graduate,Yes,No,52,1,2,Approved
+31048,Not Graduate,No,No,265,1,3,Rejected
+52966,Graduate,No,Yes,45,1,2,Approved
+47923,Not Graduate,No,No,129,1,1,Approved
+104022,Not Graduate,Yes,Yes,20,1,0,Approved
+113590,Graduate,No,Yes,61,0,2,Approved
+113144,Graduate,No,Yes,229,0,4,Approved
+141733,Not Graduate,Yes,Yes,429,1,3,Approved
+118768,Not Graduate,Yes,Yes,392,1,4,Approved
+58292,Graduate,Yes,Yes,67,1,0,Approved
+29545,Not Graduate,Yes,No,36,1,0,Approved
+97977,Graduate,No,Yes,182,1,2,Approved
+138662,Not Graduate,No,No,333,1,0,Approved
+146646,Not Graduate,No,No,379,0,2,Rejected
+46079,Graduate,Yes,No,415,0,4,Rejected
+46921,Not Graduate,No,Yes,184,1,1,Approved
+20050,Not Graduate,Yes,No,100,1,2,Approved
+34070,Not Graduate,No,No,32,1,3,Approved
+89905,Graduate,Yes,No,90,1,0,Approved
+88818,Graduate,Yes,Yes,51,1,4,Approved
+65074,Graduate,No,No,434,1,1,Approved
+56844,Graduate,Yes,No,149,1,4,Approved
+127022,Graduate,No,Yes,415,1,3,Approved
+77105,Not Graduate,No,Yes,286,1,0,Approved
+124114,Not Graduate,No,Yes,279,1,3,Approved
+145034,Not Graduate,No,No,238,1,0,Approved
+57814,Graduate,Yes,Yes,414,1,2,Approved
+42369,Graduate,No,Yes,40,1,4,Approved
+143642,Not Graduate,Yes,No,64,0,4,Approved
+100702,Graduate,No,Yes,223,0,4,Approved
+54274,Not Graduate,Yes,Yes,209,0,2,Approved
+98951,Not Graduate,Yes,No,282,1,2,Approved
+84533,Graduate,No,No,374,1,1,Approved
+137247,Graduate,Yes,No,302,1,4,Approved
+49555,Graduate,No,No,143,1,2,Approved
+148837,Graduate,No,Yes,177,0,3,Approved
+141366,Graduate,No,No,381,0,1,Approved
+39394,Not Graduate,No,No,116,1,3,Approved
+37222,Not Graduate,No,Yes,262,1,1,Rejected
+86976,Not Graduate,Yes,Yes,279,1,3,Approved
+21062,Not Graduate,Yes,Yes,380,0,0,Rejected
+55338,Not Graduate,Yes,Yes,363,1,0,Approved
+73738,Graduate,No,Yes,243,1,1,Approved
+145866,Graduate,Yes,Yes,168,0,2,Approved
+148971,Not Graduate,Yes,No,196,1,3,Approved
+35458,Graduate,Yes,Yes,217,1,1,Approved
+135377,Graduate,Yes,No,125,1,0,Approved
+27275,Not Graduate,Yes,No,320,1,1,Rejected
+116062,Not Graduate,Yes,No,120,1,2,Approved
+129162,Not Graduate,Yes,No,332,1,2,Approved
+135257,Not Graduate,Yes,Yes,381,1,3,Approved
+45161,Graduate,Yes,No,482,1,1,Approved
+135616,Not Graduate,Yes,Yes,77,1,3,Approved
+30657,Not Graduate,No,No,385,1,3,Rejected
+85046,Not Graduate,Yes,Yes,61,0,3,Approved
+78389,Not Graduate,Yes,Yes,182,0,2,Approved
+57650,Not Graduate,Yes,No,104,1,4,Approved
+17985,Graduate,No,Yes,98,1,1,Approved
+119222,Graduate,No,No,104,0,3,Approved
+60304,Graduate,No,Yes,41,0,0,Approved
+104324,Graduate,Yes,Yes,415,1,0,Approved
+70380,Graduate,Yes,No,49,1,4,Approved
+65444,Graduate,Yes,No,211,0,2,Approved
+134650,Not Graduate,No,Yes,356,1,3,Approved
+27753,Not Graduate,No,Yes,496,1,3,Rejected
+114444,Not Graduate,No,Yes,430,1,3,Approved
+115817,Not Graduate,No,No,85,0,1,Approved
+66299,Not Graduate,No,No,495,0,0,Rejected
+50432,Not Graduate,No,Yes,334,1,0,Approved
+15716,Graduate,No,Yes,106,1,4,Approved
+141470,Not Graduate,Yes,Yes,235,1,1,Approved
+142944,Graduate,Yes,Yes,461,1,2,Approved
+47531,Graduate,No,No,208,1,2,Approved
+19308,Not Graduate,Yes,No,108,1,0,Approved
+31572,Not Graduate,Yes,Yes,440,1,2,Rejected
+24131,Graduate,No,No,478,1,0,Approved
+127201,Graduate,Yes,Yes,489,1,0,Approved
+135408,Graduate,No,Yes,479,0,0,Approved
+35693,Graduate,No,Yes,439,1,4,Approved
+115810,Graduate,Yes,Yes,238,1,2,Approved
+39201,Not Graduate,No,Yes,112,0,4,Rejected
+64573,Not Graduate,No,No,316,1,2,Approved
+95917,Not Graduate,No,No,126,0,1,Approved
+112190,Not Graduate,Yes,Yes,247,0,3,Approved
+133066,Not Graduate,No,No,335,1,4,Approved
+21045,Not Graduate,No,No,475,1,2,Rejected
+41518,Graduate,No,No,159,1,0,Approved
+52868,Graduate,Yes,No,141,1,1,Approved
+56894,Not Graduate,Yes,Yes,373,1,4,Approved
+149734,Graduate,No,No,23,1,2,Approved
+119950,Graduate,Yes,No,292,1,4,Approved
+58256,Graduate,Yes,No,378,1,2,Approved
+146197,Not Graduate,Yes,Yes,284,0,0,Rejected
+82406,Graduate,Yes,Yes,204,1,4,Approved
+82600,Not Graduate,Yes,Yes,418,1,3,Approved
+73549,Graduate,Yes,Yes,198,0,3,Approved
+34426,Graduate,No,Yes,361,1,4,Approved
+141141,Graduate,Yes,Yes,243,1,0,Approved
+16881,Graduate,Yes,No,32,0,4,Approved
+38527,Not Graduate,Yes,Yes,275,0,1,Rejected
+46003,Graduate,No,No,43,1,4,Approved
+52705,Graduate,Yes,Yes,467,1,0,Approved
+32796,Not Graduate,No,No,309,0,2,Rejected
+17424,Not Graduate,No,Yes,198,1,3,Approved
+106484,Graduate,No,No,253,1,0,Approved
+145857,Not Graduate,No,Yes,317,1,0,Approved
+31447,Not Graduate,Yes,Yes,145,0,4,Rejected
+55032,Graduate,No,Yes,158,0,0,Approved
+83355,Not Graduate,Yes,No,221,1,3,Approved
+140213,Not Graduate,No,Yes,144,1,4,Approved
+108726,Not Graduate,No,No,384,1,3,Approved
+118436,Graduate,No,No,69,1,2,Approved
+93451,Graduate,No,Yes,417,0,2,Approved
+71300,Graduate,Yes,Yes,187,1,3,Approved
+41969,Not Graduate,No,Yes,289,1,2,Rejected
+131683,Not Graduate,No,Yes,95,1,2,Approved
+123557,Graduate,No,Yes,205,1,0,Approved
+18388,Graduate,Yes,Yes,382,1,3,Approved
+111580,Not Graduate,No,No,150,1,3,Approved
+26392,Not Graduate,Yes,Yes,83,1,3,Approved
+114763,Not Graduate,Yes,Yes,271,1,0,Approved
+126504,Graduate,Yes,No,98,1,3,Approved
+32692,Not Graduate,No,No,171,1,3,Approved
+73568,Graduate,Yes,Yes,236,0,0,Approved
+31706,Not Graduate,Yes,Yes,291,0,4,Rejected
+91583,Graduate,Yes,Yes,327,1,2,Approved
+140221,Graduate,No,No,345,1,2,Approved
+25917,Graduate,Yes,No,426,1,3,Approved
+68673,Not Graduate,No,Yes,51,1,2,Approved
+146372,Not Graduate,No,Yes,194,1,2,Approved
+55628,Graduate,No,Yes,20,1,1,Approved
+32849,Not Graduate,No,No,24,0,4,Rejected
+80959,Graduate,Yes,Yes,122,1,4,Approved
+83630,Graduate,Yes,Yes,307,1,0,Approved
+104487,Graduate,Yes,Yes,450,1,3,Approved
+57354,Not Graduate,No,Yes,392,0,0,Rejected
+144010,Graduate,No,No,330,1,1,Approved
+85338,Not Graduate,No,Yes,394,1,4,Approved
+53670,Graduate,Yes,Yes,102,1,0,Approved
+144639,Graduate,Yes,No,423,1,1,Approved
+139850,Graduate,Yes,No,448,1,1,Approved
+82387,Not Graduate,Yes,Yes,65,1,3,Approved
+18356,Graduate,Yes,Yes,246,1,2,Approved
+95586,Not Graduate,No,No,419,1,2,Approved
+89952,Not Graduate,Yes,Yes,249,1,4,Approved
+35008,Graduate,No,No,424,0,2,Rejected
+100587,Not Graduate,Yes,No,469,1,3,Approved
+128507,Not Graduate,Yes,No,248,1,0,Approved
+29296,Graduate,No,Yes,48,1,1,Approved
+112649,Graduate,No,No,183,1,4,Approved
+33945,Graduate,Yes,No,123,1,4,Approved
+116092,Not Graduate,Yes,Yes,248,1,3,Approved
+71580,Graduate,Yes,No,301,1,1,Approved
+15878,Not Graduate,No,No,243,1,0,Approved
+145442,Not Graduate,Yes,No,114,1,4,Approved
+37406,Not Graduate,No,Yes,164,1,3,Approved
+95466,Graduate,Yes,Yes,346,1,1,Approved
+39498,Not Graduate,No,No,32,1,2,Approved
+140959,Graduate,Yes,Yes,122,1,3,Approved
+114674,Graduate,No,No,449,0,2,Approved
+123589,Graduate,No,No,67,0,4,Approved
+73331,Graduate,Yes,No,219,1,0,Approved
+78096,Graduate,Yes,Yes,119,1,1,Approved
+100631,Graduate,No,No,70,1,0,Approved
+120943,Graduate,Yes,Yes,223,0,3,Approved
+129343,Graduate,Yes,No,270,1,3,Approved
+17407,Not Graduate,Yes,Yes,104,1,4,Approved
+104581,Graduate,Yes,Yes,57,0,2,Approved
+29734,Not Graduate,Yes,No,84,1,0,Approved
+53871,Not Graduate,Yes,No,333,1,2,Approved
+126973,Not Graduate,Yes,No,433,0,0,Rejected
+48819,Not Graduate,Yes,Yes,106,1,3,Approved
+122571,Not Graduate,Yes,No,174,1,3,Approved
+77506,Not Graduate,Yes,No,185,1,4,Approved
+46406,Not Graduate,No,No,193,1,1,Approved
+60123,Not Graduate,Yes,No,137,1,1,Approved
+86654,Graduate,Yes,Yes,46,0,0,Approved
+118295,Graduate,Yes,Yes,272,1,2,Approved
+96812,Not Graduate,No,No,191,1,2,Approved
+140986,Graduate,Yes,No,184,0,3,Approved
+132145,Not Graduate,Yes,Yes,147,0,3,Approved
+116703,Graduate,Yes,Yes,467,0,0,Approved
+96420,Graduate,Yes,No,313,1,1,Approved
+54130,Not Graduate,Yes,No,221,1,2,Approved
+70697,Not Graduate,Yes,Yes,118,1,1,Approved
+31050,Not Graduate,No,No,405,1,0,Rejected
+65515,Graduate,No,No,447,1,4,Approved
+140074,Not Graduate,Yes,Yes,35,1,3,Approved
+72494,Not Graduate,No,Yes,467,1,2,Approved
